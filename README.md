@@ -1,4 +1,4 @@
-## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20" height="20">! Eu sou o Jaziel Cavalcante
+## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25" height="25">! Eu sou o Jaziel Cavalcante
 <div align="center">
   <a href="https://github.com/jazzcavalcante">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jazzcavalcante&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
