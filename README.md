@@ -3,9 +3,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
 </p>
-
-<p align="left">
-  <a href="https://instagram.com/ojazielcavalcante">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
